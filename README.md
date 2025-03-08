@@ -1,3 +1,4 @@
+<h1>Real Time Web Chat App</h1>
 <p><l>Engineered a real-time chat application enabling seamless bi-directional communication between users.</l>
  <l>Integrated authentication, ensuring secure user authentication and session management.</l>
  <l>Designed a multi-user chat system, allowing users to create and join chat rooms using a valid room ID.</l>
